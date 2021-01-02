@@ -1,0 +1,24 @@
+{
+  "name": "eslint-config-baron",
+  "version": "1.0.0",
+  "description": "Baron's eslint configuration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 7",
+    "eslint-config-prettier": ">= 7",
+    "eslint-plugin-prettier": ">= 3",
+    "prettier": ">= 2"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Baron Willeford",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-prettier": "^7.1.0"
+  }
+}
