@@ -17,6 +17,10 @@
     "eslintconfig"
   ],
   "author": "Baron Willeford",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baron816/eslint-config-baron.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "eslint-config-prettier": "^7.1.0"
