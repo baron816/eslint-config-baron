@@ -85,7 +85,6 @@ module.exports = {
       "one-var": ["error", "never"],
       "prefer-object-spread": "error",
       "arrow-parens": "error",
-      "generator-star-spacing": "error",
       "no-dupe-class-members": "error",
       "no-duplicate-imports": "error",
       "no-useless-computed-key": "error",
