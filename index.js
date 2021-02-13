@@ -65,7 +65,6 @@ module.exports = {
       "eol-last": "error",
       "func-call-spacing": "error",
       "func-style": ["error", "declaration", { allowArrowFunctions: true }],
-      "function-call-argument-newline": ["error", "never"],
       "key-spacing": "error",
       "keyword-spacing": "error",
       "max-len": ["error", { code: 80}],
