@@ -69,7 +69,7 @@ module.exports = {
       "keyword-spacing": "error",
       "max-len": ["error", { code: 80}],
       "multiline-ternary": ["error", "always-multiline"],
-      "new-cap": "error",
+      "new-cap": ["error", { capIsNew: false }],
       "newline-per-chained-call": "warn",
       "no-array-constructor": "warn",
       "no-bitwise": "warn",
